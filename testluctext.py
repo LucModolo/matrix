@@ -7,8 +7,7 @@ import datetime
 
 Zeit=datetime.datetime.now()
 
-PositionText=20
-PositionZeit=20
+PositionText=10
 
 print(Zeit.year)
 
